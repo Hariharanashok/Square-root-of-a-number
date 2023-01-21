@@ -24,8 +24,7 @@ RegisterNumber:
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
-
+![image](https://user-images.githubusercontent.com/120353431/213843919-6cf1eb48-64af-43b6-a8c7-75abe0a7f934.png)
 
 ## Result:
 Thus the program to find the square root for the given number(newton's method) using function is written and verified using python programming.
